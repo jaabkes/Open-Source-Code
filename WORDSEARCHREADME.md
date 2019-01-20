@@ -2,6 +2,7 @@
 This repository is to hold and make available all of my open source code to the public for review and scrutiny. 
 Also to make any programmers struggle a little less teary eyed.
 Although if any of this work is used, I MUST receive recognition for it.(I'm looking for a job ;D)
+If you have any questions, our find an problems with anything please email me right away at: jaabkesse2022@gmail.com
 
 
 WordSearch Object;
