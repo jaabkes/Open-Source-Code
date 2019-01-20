@@ -20,4 +20,4 @@ This class is a pretty straight forward UI. This class handles file reading and 
 System.in.
 
 This class does not handle exceptions fluidly, meaning if you encounter any user input error or potential system error
-it will stop running and tell you what the problem is. 
+it(should) will stop running and tell you what the problem is. 
